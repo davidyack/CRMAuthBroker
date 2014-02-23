@@ -13,3 +13,6 @@ Once you have the token, you can proceed to use either the OData or Soap endpoin
 
 
 A detailed walkthrough can be watched via the @XRMVirtual recorded live meeting here https://www311.livemeeting.com/cc/usergroups/view?id=3JGDNF
+
+
+More training on Microsoft Dynamics CRM can be found here http://pluralsight.com/training/Authors/Details/david-yack 
